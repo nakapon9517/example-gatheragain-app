@@ -26,33 +26,33 @@ jobs:
       - uses: expo/expo-github-action@v6
         with:
           expo-version: 4.x
-          token: ${{ secrets.EXPO_TOKEN_GATHRAGAIN }}
+          token: ${{ secrets.EXPO_TOKEN }}
       - run: yarn install
 
-      - run: |
-          expo publish --release-channel stg-v1.0
-          echo "DEPLOY_STATE=successful" >> $GITHUB_ENV
+      # - run: |
+      #     expo publish --release-channel stg-v1.0
+      #     echo "DEPLOY_STATE=successful" >> $GITHUB_ENV
 
-      - name: Failed Deployment
-        if: failure()
-        run: echo "DEPLOY_STATE=failed" >> $GITHUB_ENV
+      # - name: Failed Deployment
+      #   if: failure()
+      #   run: echo "DEPLOY_STATE=failed" >> $GITHUB_ENV
 
-      - name: Confirm Deploy State
-        if: always()
-        run: |
-          echo "DEPLOY_STATE: ${{ env.DEPLOY_STATE }}"
+      # - name: Confirm Deploy State
+      #   if: always()
+      #   run: |
+      #     echo "DEPLOY_STATE: ${{ env.DEPLOY_STATE }}"
 
-      # 成功
-      - name: Slack Notification on Success
-        if: ${{ success() }}
-        uses: rtCamp/action-slack-notify@v2
-        env:
-          SLACK_TITLE: Staging環境にOTAリリースしました
-          SLACK_COLOR: good
-      # 失敗
-      - name: Slack Notification on Failure
-        if: ${{ failure() }}
-        uses: rtCamp/action-slack-notify@v2
-        env:
-          SLACK_TITLE: Staging環境にOTAリリースできませんでした
-          SLACK_COLOR: danger
+      # # 成功
+      # - name: Slack Notification on Success
+      #   if: ${{ success() }}
+      #   uses: rtCamp/action-slack-notify@v2
+      #   env:
+      #     SLACK_TITLE: Staging環境にOTAリリースしました
+      #     SLACK_COLOR: good
+      # # 失敗
+      # - name: Slack Notification on Failure
+      #   if: ${{ failure() }}
+      #   uses: rtCamp/action-slack-notify@v2
+      #   env:
+      #     SLACK_TITLE: Staging環境にOTAリリースできませんでした
+      #     SLACK_COLOR: danger

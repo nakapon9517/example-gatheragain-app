@@ -20,18 +20,18 @@ jobs:
       - uses: expo/expo-github-action@v6
         with:
           expo-version: 4.x
-          token: ${{ secrets.EXPO_TOKEN_GATHRAGAIN }}
+          token: ${{ secrets.EXPO_TOKEN }}
       - run: yarn install
 
-      - run: |
-          expo publish
-          echo "DEPLOY_STATE=successful" >> $GITHUB_ENV
+      # - run: |
+      #     expo publish
+      #     echo "DEPLOY_STATE=successful" >> $GITHUB_ENV
 
-      - name: Failed Deployment
-        if: failure()
-        run: echo "DEPLOY_STATE=failed" >> $GITHUB_ENV
+      # - name: Failed Deployment
+      #   if: failure()
+      #   run: echo "DEPLOY_STATE=failed" >> $GITHUB_ENV
 
-      - name: Confirm Deploy State
-        if: always()
-        run: |
-          echo "DEPLOY_STATE: ${{ env.DEPLOY_STATE }}"
+      # - name: Confirm Deploy State
+      #   if: always()
+      #   run: |
+      #     echo "DEPLOY_STATE: ${{ env.DEPLOY_STATE }}"
