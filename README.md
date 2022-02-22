@@ -1,6 +1,6 @@
-# example
+# example-gatheragain-app
 
-## Indexs (main functions)
+## Main Functions
 
 - Animation
 - AsyncStorage
@@ -8,14 +8,33 @@
 - Dynamic configuration with app.config.ts
 - EAS Build
 - EAS Submit
-- Firebase (Authentication, Firestore, Functions, Analytics)
+- Firebase
+  - Authentication
+  - Firestore
+  - Functions
+  - Analytics
 - Introductions
 - Light/Dark mode
 - MapView
 - Push Notification
-- React Navigation(BottomTab, Stack)
+- React Navigation
+  - Stack
+  - BottomTab
 - SplashScreen with fadeout animation
 - WebView
+
+# Ready?
+
+## PC
+
+- Node (v14)
+- Yarn
+
+## Phone
+
+- Expo Go
+  - [iOS](https://apps.apple.com/jp/app/expo-go/id982107779)
+  - [Android](https://play.google.com/store/apps/details?id=host.exp.exponent)
 
 ## SetUp
 
