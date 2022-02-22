@@ -1,0 +1,11 @@
+{
+  "御堂筋線": { "shortText": "M", "color": "#DB260A" },
+  "谷町線": { "shortText": "T", "color": "#AA1B86" },
+  "四つ橋線": { "shortText": "Y", "color": "#0073BD" },
+  "中央線": { "shortText": "C", "color": "#00A53C" },
+  "千日前線": { "shortText": "S", "color": "#EB74A8" },
+  "堺筋線": { "shortText": "K", "color": "#B24321" },
+  "長堀鶴見緑地線": { "shortText": "N", "color": "#BBD300" },
+  "今里筋線": { "shortText": "I", "color": "#F49F00" },
+  "南港ポートタウン線": { "shortText": "P", "color": "#00A6E2" }
+}

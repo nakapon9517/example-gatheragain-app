@@ -1,0 +1,12 @@
+{
+  "銀座線": { "color": "#ff9500", "shortText": "G" },
+  "丸ノ内線": { "color": "#f62e36", "shortText": "M" },
+  "丸ノ内線分岐線": { "color": "#f62e36", "shortText": "M" },
+  "日比谷線": { "color": "#b5b5ac", "shortText": "H" },
+  "東西線": { "color": "#009bbf", "shortText": "T" },
+  "千代田線": { "color": "#00bb85", "shortText": "C" },
+  "有楽町線": { "color": "#c1a470", "shortText": "Y" },
+  "半蔵門線": { "color": "#8f76d6", "shortText": "Z" },
+  "南北線": { "color": "#00ac9b", "shortText": "N" },
+  "副都心線": { "color": "#9c5e31", "shortText": "F" }
+}

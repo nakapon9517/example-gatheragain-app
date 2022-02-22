@@ -1,0 +1,334 @@
+{
+  "routeNames": "大阪環状線",
+  "stations": [
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "大阪",
+      "stationHiragana": "おおさか",
+      "latitude": "34.70281",
+      "longitude": "135.49705",
+      "transfers": [
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "東海道線"
+        },
+        {
+          "companyName": "阪急電鉄",
+          "routeName": "阪急宝塚本線"
+        },
+        {
+          "companyName": "阪急電鉄",
+          "routeName": "阪急神戸本線"
+        },
+        {
+          "companyName": "阪急電鉄",
+          "routeName": "阪急京都本線"
+        },
+        {
+          "companyName": "阪神電気鉄道",
+          "routeName": "阪神本線"
+        },
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "御堂筋線"
+        },
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "四つ橋線"
+        },
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "谷町線"
+        },
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "JR東西線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "福島",
+      "stationHiragana": "ふくしま",
+      "latitude": "34.69757",
+      "longitude": "135.48736",
+      "transfers": [
+        {
+          "companyName": "阪神電気鉄道",
+          "routeName": "阪神本線"
+        },
+        {
+          "companyName": "京阪電気鉄道",
+          "routeName": "京阪中之島線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "野田",
+      "stationHiragana": "のだ",
+      "latitude": "34.6895",
+      "longitude": "135.47567",
+      "transfers": [
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "千日前線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "西九条",
+      "stationHiragana": "さいくじょう",
+      "latitude": "34.68275",
+      "longitude": "135.4669",
+      "transfers": [
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "桜島線"
+        },
+        {
+          "companyName": "阪神電気鉄道",
+          "routeName": "阪神なんば線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "弁天町",
+      "stationHiragana": "べんてんちょう",
+      "latitude": "34.66992",
+      "longitude": "135.46204",
+      "transfers": [
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "中央線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "大正",
+      "stationHiragana": "たいしょう",
+      "latitude": "34.66587",
+      "longitude": "135.47903",
+      "transfers": [
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "長堀鶴見緑地線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "芦原橋",
+      "stationHiragana": "あしはらばし",
+      "latitude": "34.65814",
+      "longitude": "135.48964",
+      "transfers": [
+        {
+          "companyName": "南海電気鉄道",
+          "routeName": "南海高野線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "今宮",
+      "stationHiragana": "いまみや",
+      "latitude": "34.65394",
+      "longitude": "135.49271",
+      "transfers": [
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "関西本線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "新今宮",
+      "stationHiragana": "しんいまみや",
+      "latitude": "34.65019",
+      "longitude": "135.50066",
+      "transfers": [
+        {
+          "companyName": "南海電気鉄道",
+          "routeName": "南海本線"
+        },
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "関西本線"
+        },
+        {
+          "companyName": "阪堺電気軌道",
+          "routeName": "阪堺線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "天王寺",
+      "stationHiragana": "てんのうじ",
+      "latitude": "34.64665",
+      "longitude": "135.51602",
+      "transfers": [
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "御堂筋線"
+        },
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "谷町線"
+        },
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "関西本線"
+        },
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "阪和線"
+        },
+        {
+          "companyName": "阪堺電気軌道",
+          "routeName": "上町線"
+        },
+        {
+          "companyName": "近畿日本鉄道",
+          "routeName": "近鉄南大阪線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "寺田町",
+      "stationHiragana": "てらだちょう",
+      "latitude": "34.64755",
+      "longitude": "135.52319",
+      "transfers": []
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "桃谷",
+      "stationHiragana": "ももだに",
+      "latitude": "34.65925",
+      "longitude": "135.52823",
+      "transfers": []
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "鶴橋",
+      "stationHiragana": "つるはし",
+      "latitude": "34.66532",
+      "longitude": "135.53023",
+      "transfers": [
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "千日前線"
+        },
+        {
+          "companyName": "近畿日本鉄道",
+          "routeName": "近鉄大阪線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "玉造",
+      "stationHiragana": "たまつくり",
+      "latitude": "34.67273",
+      "longitude": "135.53271",
+      "transfers": [
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "長堀鶴見緑地線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "森ノ宮",
+      "stationHiragana": "もりのみや",
+      "latitude": "34.68108",
+      "longitude": "135.53397",
+      "transfers": [
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "中央線"
+        },
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "長堀鶴見緑地線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "大阪城公園",
+      "stationHiragana": "おおさかじょうこうえん",
+      "latitude": "34.68772",
+      "longitude": "135.53436",
+      "transfers": []
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "京橋",
+      "stationHiragana": "きょうばし",
+      "latitude": "34.69617",
+      "longitude": "135.53422",
+      "transfers": [
+        {
+          "companyName": "京阪電気鉄道",
+          "routeName": "京阪本線"
+        },
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "長堀鶴見緑地線"
+        },
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "JR東西線"
+        },
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "片町線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "桜ノ宮",
+      "stationHiragana": "さくらのみや",
+      "latitude": "34.70509",
+      "longitude": "135.52109",
+      "transfers": []
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "大阪環状線",
+      "stationName": "天満",
+      "stationHiragana": "てんま",
+      "latitude": "34.70443",
+      "longitude": "135.51317",
+      "transfers": []
+    }
+  ]
+}

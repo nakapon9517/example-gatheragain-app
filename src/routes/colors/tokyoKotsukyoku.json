@@ -1,0 +1,7 @@
+{
+  "大江戸線": { "color": "#b6007a", "shortText": "E" },
+  "浅草線": { "color": "#e85298", "shortText": "A" },
+  "三田線": { "color": "#0079c2", "shortText": "I" },
+  "新宿線": { "color": "#6cbb5a", "shortText": "S" },
+  "都電荒川線": { "color": "#EE86A7", "shortText": "SA" }
+}

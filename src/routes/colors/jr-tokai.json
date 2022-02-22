@@ -1,0 +1,38 @@
+{
+  "東海道本線": {
+    "color": "#F57615",
+    "shortText": "東海道本線"
+  },
+  "御殿場線": {
+    "color": "#40743C",
+    "shortText": "御殿場線"
+  },
+  "身延線": {
+    "color": "#6F2D98",
+    "shortText": "身延線"
+  },
+  "飯田線": {
+    "color": "#75A2DB",
+    "shortText": "飯田線"
+  },
+  "武豊線": {
+    "color": "#83502F",
+    "shortText": "武豊線"
+  },
+  "中央本線": {
+    "color": "#3B6C9C",
+    "shortText": "中央本線"
+  },
+  "高山本線": {
+    "color": "#9C1618",
+    "shortText": "高山本線"
+  },
+  "太多線": {
+    "color": "#BFBA2F",
+    "shortText": "太多線"
+  },
+  "関西本線": {
+    "color": "#3DBC87",
+    "shortText": "関西本線"
+  }
+}

@@ -1,0 +1,2301 @@
+{
+  "routeNames": "東武宇都宮線",
+  "stations": [
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武亀戸線",
+      "stationName": "亀戸",
+      "stationHiragana": "かめいど",
+      "latitude": "35.69774",
+      "longitude": "139.82768",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "総武本線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武亀戸線",
+      "stationName": "亀戸水神",
+      "stationHiragana": "かめいどすいじん",
+      "latitude": "35.70029",
+      "longitude": "139.83353",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武亀戸線",
+      "stationName": "東あずま",
+      "stationHiragana": "ひがし",
+      "latitude": "35.70769",
+      "longitude": "139.83142",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武亀戸線",
+      "stationName": "小村井",
+      "stationHiragana": "おむらい",
+      "latitude": "35.7102",
+      "longitude": "139.82795",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武亀戸線",
+      "stationName": "曳舟",
+      "stationHiragana": "ひきふね",
+      "latitude": "35.71891",
+      "longitude": "139.81667",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武伊勢崎線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "浅草",
+      "stationHiragana": "あさくさ",
+      "latitude": "35.71157",
+      "longitude": "139.79793",
+      "transfers": [
+        {
+          "companyName": "東京地下鉄",
+          "routeName": "銀座線"
+        },
+        {
+          "companyName": "東京都交通局",
+          "routeName": "浅草線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "とうきょうスカイツリー",
+      "stationHiragana": null,
+      "latitude": "35.71027",
+      "longitude": "139.80863",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "曳舟",
+      "stationHiragana": "ひきふね",
+      "latitude": "35.71891",
+      "longitude": "139.81667",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武亀戸線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "東向島",
+      "stationHiragana": "ひがしむこうじま",
+      "latitude": "35.72483",
+      "longitude": "139.81941",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "鐘ヶ淵",
+      "stationHiragana": "かねぶち",
+      "latitude": "35.73415",
+      "longitude": "139.82072",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "堀切",
+      "stationHiragana": "ほりきり",
+      "latitude": "35.74308",
+      "longitude": "139.81761",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "牛田",
+      "stationHiragana": "うしだ",
+      "latitude": "35.74461",
+      "longitude": "139.81217",
+      "transfers": [
+        {
+          "companyName": "京成電鉄",
+          "routeName": "京成本線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "北千住",
+      "stationHiragana": "きたせんじゅ",
+      "latitude": "35.75053",
+      "longitude": "139.80578",
+      "transfers": [
+        {
+          "companyName": "東京地下鉄",
+          "routeName": "日比谷線"
+        },
+        {
+          "companyName": "東京地下鉄",
+          "routeName": "千代田線"
+        },
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "常磐線"
+        },
+        {
+          "companyName": "首都圏新都市鉄道",
+          "routeName": "つくばエクスプレス"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "小菅",
+      "stationHiragana": "こすが",
+      "latitude": "35.75814",
+      "longitude": "139.8122",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "五反野",
+      "stationHiragana": "ごたんの",
+      "latitude": "35.76647",
+      "longitude": "139.80864",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "梅島",
+      "stationHiragana": "うめじま",
+      "latitude": "35.77326",
+      "longitude": "139.7964",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "西新井",
+      "stationHiragana": "にしあらい",
+      "latitude": "35.7767",
+      "longitude": "139.79096",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武大師線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "竹ノ塚",
+      "stationHiragana": "たけのつか",
+      "latitude": "35.79363",
+      "longitude": "139.79046",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "谷塚",
+      "stationHiragana": "やつか",
+      "latitude": "35.8141",
+      "longitude": "139.80107",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "草加",
+      "stationHiragana": "そうか",
+      "latitude": "35.82762",
+      "longitude": "139.80339",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "獨協大学前",
+      "stationHiragana": "どっきょうだいがくまえ",
+      "latitude": "35.84262",
+      "longitude": "139.801",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "新田",
+      "stationHiragana": "しんでん",
+      "latitude": "35.85462",
+      "longitude": "139.79518",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "蒲生",
+      "stationHiragana": "がもう",
+      "latitude": "35.86627",
+      "longitude": "139.7919",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "新越谷",
+      "stationHiragana": "しんこしがや",
+      "latitude": "35.87491",
+      "longitude": "139.78996",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "武蔵野線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "越谷",
+      "stationHiragana": "こしがや",
+      "latitude": "35.8883",
+      "longitude": "139.78587",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "北越谷",
+      "stationHiragana": "きたこしがや",
+      "latitude": "35.90099",
+      "longitude": "139.78002",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "大袋",
+      "stationHiragana": "おおぶくろ",
+      "latitude": "35.92382",
+      "longitude": "139.77816",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "せんげん台",
+      "stationHiragana": "せんげんだい",
+      "latitude": "35.93519",
+      "longitude": "139.77482",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "武里",
+      "stationHiragana": "たけさと",
+      "latitude": "35.94825",
+      "longitude": "139.77095",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "一ノ割",
+      "stationHiragana": "いちのわり",
+      "latitude": "35.96562",
+      "longitude": "139.76582",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "春日部",
+      "stationHiragana": "かすかべ",
+      "latitude": "35.98014",
+      "longitude": "139.75259",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武野田線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "北春日部",
+      "stationHiragana": "きたかすかべ",
+      "latitude": "35.99069",
+      "longitude": "139.74405",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "姫宮",
+      "stationHiragana": "ひめみや",
+      "latitude": "36.00391",
+      "longitude": "139.73891",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "東武動物公園",
+      "stationHiragana": "とうぶどうぶつこうえん",
+      "latitude": "36.02424",
+      "longitude": "139.72777",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武日光線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "和戸",
+      "stationHiragana": "わど",
+      "latitude": "36.03927",
+      "longitude": "139.70162",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "久喜",
+      "stationHiragana": "くき",
+      "latitude": "36.06607",
+      "longitude": "139.67787",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "東北本線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "鷲宮",
+      "stationHiragana": "わしのみや",
+      "latitude": "36.09585",
+      "longitude": "139.65739",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "花崎",
+      "stationHiragana": "はなさき",
+      "latitude": "36.10964",
+      "longitude": "139.63449",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "加須",
+      "stationHiragana": "かぞ",
+      "latitude": "36.12301",
+      "longitude": "139.59542",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "南羽生",
+      "stationHiragana": "みなみはにゅう",
+      "latitude": "36.14926",
+      "longitude": "139.55748",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "羽生",
+      "stationHiragana": "はにゅう",
+      "latitude": "36.16984",
+      "longitude": "139.53406",
+      "transfers": [
+        {
+          "companyName": "秩父鉄道",
+          "routeName": "秩父本線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "川俣",
+      "stationHiragana": "かわまた",
+      "latitude": "36.20823",
+      "longitude": "139.52648",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "茂林寺前",
+      "stationHiragana": "もりんじまえ",
+      "latitude": "36.22572",
+      "longitude": "139.52702",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "館林",
+      "stationHiragana": "たてばやし",
+      "latitude": "36.24638",
+      "longitude": "139.52787",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武佐野線"
+        },
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武小泉線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "多々良",
+      "stationHiragana": "たたら",
+      "latitude": "36.27403",
+      "longitude": "139.49973",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "県",
+      "stationHiragana": "けん",
+      "latitude": "36.29024",
+      "longitude": "139.473",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "福居",
+      "stationHiragana": "ふくい",
+      "latitude": "36.30572",
+      "longitude": "139.45845",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "東武和泉",
+      "stationHiragana": "とうぶいずみ",
+      "latitude": "36.31614",
+      "longitude": "139.45496",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "足利市",
+      "stationHiragana": "あしかがし",
+      "latitude": "36.32901",
+      "longitude": "139.4488",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "野州山辺",
+      "stationHiragana": "やしゅうやまべ",
+      "latitude": "36.32595",
+      "longitude": "139.43142",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "韮川",
+      "stationHiragana": "にらがわ",
+      "latitude": "36.30802",
+      "longitude": "139.40217",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "太田",
+      "stationHiragana": "おおた",
+      "latitude": "36.2942",
+      "longitude": "139.37883",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武小泉線"
+        },
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武桐生線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "細谷",
+      "stationHiragana": "ほそや",
+      "latitude": "36.28338",
+      "longitude": "139.34961",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "木崎",
+      "stationHiragana": "きざき",
+      "latitude": "36.27117",
+      "longitude": "139.31224",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "世良田",
+      "stationHiragana": "せらだ",
+      "latitude": "36.27309",
+      "longitude": "139.28108",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "境町",
+      "stationHiragana": "さかいまち",
+      "latitude": "36.27688",
+      "longitude": "139.25797",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "剛志",
+      "stationHiragana": "ごうし",
+      "latitude": "36.29506",
+      "longitude": "139.22446",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "新伊勢崎",
+      "stationHiragana": "しんいせさき",
+      "latitude": "36.31735",
+      "longitude": "139.20206",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "伊勢崎",
+      "stationHiragana": "いせさき",
+      "latitude": "36.32628",
+      "longitude": "139.19581",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "両毛線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武伊勢崎線",
+      "stationName": "押上",
+      "stationHiragana": "おしあげ",
+      "latitude": "35.70843",
+      "longitude": "139.81374",
+      "transfers": [
+        {
+          "companyName": "京成電鉄",
+          "routeName": "京成押上線"
+        },
+        {
+          "companyName": "東京地下鉄",
+          "routeName": "半蔵門線"
+        },
+        {
+          "companyName": "東京都交通局",
+          "routeName": "浅草線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武佐野線",
+      "stationName": "館林",
+      "stationHiragana": "たてばやし",
+      "latitude": "36.24638",
+      "longitude": "139.52787",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武伊勢崎線"
+        },
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武小泉線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武佐野線",
+      "stationName": "渡瀬",
+      "stationHiragana": "わたりせ",
+      "latitude": "36.26203",
+      "longitude": "139.53802",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武佐野線",
+      "stationName": "田島",
+      "stationHiragana": "たじま",
+      "latitude": "36.2906",
+      "longitude": "139.56512",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武佐野線",
+      "stationName": "佐野市",
+      "stationHiragana": "さのし",
+      "latitude": "36.30585",
+      "longitude": "139.57524",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武佐野線",
+      "stationName": "佐野",
+      "stationHiragana": "さの",
+      "latitude": "36.31686",
+      "longitude": "139.58002",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "両毛線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武佐野線",
+      "stationName": "堀米",
+      "stationHiragana": "ほりごめ",
+      "latitude": "36.32886",
+      "longitude": "139.58024",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武佐野線",
+      "stationName": "吉水",
+      "stationHiragana": "よしみず",
+      "latitude": "36.3453",
+      "longitude": "139.5792",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武佐野線",
+      "stationName": "田沼",
+      "stationHiragana": "たぬま",
+      "latitude": "36.36673",
+      "longitude": "139.5817",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武佐野線",
+      "stationName": "多田",
+      "stationHiragana": "ただ",
+      "latitude": "36.3775",
+      "longitude": "139.5926",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武佐野線",
+      "stationName": "葛生",
+      "stationHiragana": "くずう",
+      "latitude": "36.39801",
+      "longitude": "139.60984",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武大師線",
+      "stationName": "西新井",
+      "stationHiragana": "にしあらい",
+      "latitude": "35.7767",
+      "longitude": "139.79096",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武伊勢崎線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武大師線",
+      "stationName": "大師前",
+      "stationHiragana": "だいしまえ",
+      "latitude": "35.77904",
+      "longitude": "139.78205",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武宇都宮線",
+      "stationName": "新栃木",
+      "stationHiragana": "しんとちぎ",
+      "latitude": "36.39065",
+      "longitude": "139.74217",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武日光線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武宇都宮線",
+      "stationName": "野州平川",
+      "stationHiragana": "やしゅうひらかわ",
+      "latitude": "36.40169",
+      "longitude": "139.75419",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武宇都宮線",
+      "stationName": "野州大塚",
+      "stationHiragana": "やしゅうおおつか",
+      "latitude": "36.40897",
+      "longitude": "139.77303",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武宇都宮線",
+      "stationName": "壬生",
+      "stationHiragana": "みぶ",
+      "latitude": "36.42197",
+      "longitude": "139.80469",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武宇都宮線",
+      "stationName": "国谷",
+      "stationHiragana": "くにや",
+      "latitude": "36.4507",
+      "longitude": "139.82337",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武宇都宮線",
+      "stationName": "おもちゃのまち",
+      "stationHiragana": null,
+      "latitude": "36.46728",
+      "longitude": "139.82971",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武宇都宮線",
+      "stationName": "安塚",
+      "stationHiragana": "やすづか",
+      "latitude": "36.4864",
+      "longitude": "139.83586",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武宇都宮線",
+      "stationName": "西川田",
+      "stationHiragana": "にしかわだ",
+      "latitude": "36.51384",
+      "longitude": "139.85004",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武宇都宮線",
+      "stationName": "江曽島",
+      "stationHiragana": "えそじま",
+      "latitude": "36.53137",
+      "longitude": "139.86107",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武宇都宮線",
+      "stationName": "南宇都宮",
+      "stationHiragana": "みなみうつのみや",
+      "latitude": "36.54359",
+      "longitude": "139.87173",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武宇都宮線",
+      "stationName": "東武宇都宮",
+      "stationHiragana": "とうぶうつのみや",
+      "latitude": "36.55883",
+      "longitude": "139.88058",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武小泉線",
+      "stationName": "館林",
+      "stationHiragana": "たてばやし",
+      "latitude": "36.24638",
+      "longitude": "139.52787",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武伊勢崎線"
+        },
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武佐野線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武小泉線",
+      "stationName": "成島",
+      "stationHiragana": "なるしま",
+      "latitude": "36.24913",
+      "longitude": "139.50613",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武小泉線",
+      "stationName": "本中野",
+      "stationHiragana": "ほんなかの",
+      "latitude": "36.25845",
+      "longitude": "139.47001",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武小泉線",
+      "stationName": "篠塚",
+      "stationHiragana": "しのづか",
+      "latitude": "36.2569",
+      "longitude": "139.4452",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武小泉線",
+      "stationName": "東小泉",
+      "stationHiragana": "ひがしこいずみ",
+      "latitude": "36.2596",
+      "longitude": "139.42903",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武小泉線",
+      "stationName": "竜舞",
+      "stationHiragana": "りゅうまい",
+      "latitude": "36.27851",
+      "longitude": "139.40948",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武小泉線",
+      "stationName": "太田",
+      "stationHiragana": "おおた",
+      "latitude": "36.29406",
+      "longitude": "139.37774",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武伊勢崎線"
+        },
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武桐生線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武小泉線",
+      "stationName": "小泉町",
+      "stationHiragana": "こいずみまち",
+      "latitude": "36.26142",
+      "longitude": "139.42075",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武小泉線",
+      "stationName": "西小泉",
+      "stationHiragana": "にしこいずみ",
+      "latitude": "36.25808",
+      "longitude": "139.40821",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "東武動物公園",
+      "stationHiragana": "とうぶどうぶつこうえん",
+      "latitude": "36.02424",
+      "longitude": "139.72777",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武伊勢崎線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "杉戸高野台",
+      "stationHiragana": "すぎとたかのだい",
+      "latitude": "36.05229",
+      "longitude": "139.71428",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "幸手",
+      "stationHiragana": "さって",
+      "latitude": "36.07322",
+      "longitude": "139.71482",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "南栗橋",
+      "stationHiragana": "みなみくりはし",
+      "latitude": "36.11249",
+      "longitude": "139.71357",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "栗橋",
+      "stationHiragana": "くりはし",
+      "latitude": "36.13842",
+      "longitude": "139.69413",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "東北本線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "新古河",
+      "stationHiragana": "しんこが",
+      "latitude": "36.19313",
+      "longitude": "139.68657",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "柳生",
+      "stationHiragana": "やぎゅう",
+      "latitude": "36.20628",
+      "longitude": "139.66045",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "板倉東洋大前",
+      "stationHiragana": "いたぐらとうようだいまえ",
+      "latitude": "36.22275",
+      "longitude": "139.64852",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "藤岡",
+      "stationHiragana": "ふじおか",
+      "latitude": "36.2561",
+      "longitude": "139.64573",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "静和",
+      "stationHiragana": "しずわ",
+      "latitude": "36.3161",
+      "longitude": "139.68447",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "新大平下",
+      "stationHiragana": "しんおおひらした",
+      "latitude": "36.33962",
+      "longitude": "139.70221",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "栃木",
+      "stationHiragana": "とちぎ",
+      "latitude": "36.37186",
+      "longitude": "139.73217",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "両毛線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "新栃木",
+      "stationHiragana": "しんとちぎ",
+      "latitude": "36.39065",
+      "longitude": "139.74217",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武宇都宮線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "合戦場",
+      "stationHiragana": "かっせんじょう",
+      "latitude": "36.40708",
+      "longitude": "139.74077",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "家中",
+      "stationHiragana": "いえじゅう",
+      "latitude": "36.42921",
+      "longitude": "139.74738",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "東武金崎",
+      "stationHiragana": "とうぶかなさき",
+      "latitude": "36.4671",
+      "longitude": "139.74912",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "楡木",
+      "stationHiragana": "にれぎ",
+      "latitude": "36.50659",
+      "longitude": "139.74531",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "樅山",
+      "stationHiragana": "もみやま",
+      "latitude": "36.53344",
+      "longitude": "139.74173",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "新鹿沼",
+      "stationHiragana": "しんかぬま",
+      "latitude": "36.55737",
+      "longitude": "139.74471",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "北鹿沼",
+      "stationHiragana": "きたかぬま",
+      "latitude": "36.58096",
+      "longitude": "139.73751",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "板荷",
+      "stationHiragana": "いたが",
+      "latitude": "36.61888",
+      "longitude": "139.70799",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "下小代",
+      "stationHiragana": "しもごしろ",
+      "latitude": "36.65097",
+      "longitude": "139.71397",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "明神",
+      "stationHiragana": "みょうじん",
+      "latitude": "36.6771",
+      "longitude": "139.71215",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "下今市",
+      "stationHiragana": "しもいまいち",
+      "latitude": "36.7259",
+      "longitude": "139.69181",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武鬼怒川線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "上今市",
+      "stationHiragana": "かみいまいち",
+      "latitude": "36.72815",
+      "longitude": "139.68029",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武日光線",
+      "stationName": "東武日光",
+      "stationHiragana": "とうぶにっこう",
+      "latitude": "36.74822",
+      "longitude": "139.61908",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "池袋",
+      "stationHiragana": "いけぶくろ",
+      "latitude": "35.73099",
+      "longitude": "139.71106",
+      "transfers": [
+        {
+          "companyName": "東京地下鉄",
+          "routeName": "副都心線"
+        },
+        {
+          "companyName": "東京地下鉄",
+          "routeName": "丸ノ内線"
+        },
+        {
+          "companyName": "東京地下鉄",
+          "routeName": "有楽町線"
+        },
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "山手線"
+        },
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "赤羽線"
+        },
+        {
+          "companyName": "西武鉄道",
+          "routeName": "西武池袋線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "北池袋",
+      "stationHiragana": "きたいけぶくろ",
+      "latitude": "35.73963",
+      "longitude": "139.71603",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "下板橋",
+      "stationHiragana": "しもいたばし",
+      "latitude": "35.745",
+      "longitude": "139.71576",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "大山",
+      "stationHiragana": "おおやま",
+      "latitude": "35.74844",
+      "longitude": "139.70254",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "中板橋",
+      "stationHiragana": "なかいたばし",
+      "latitude": "35.75587",
+      "longitude": "139.69521",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "ときわ台",
+      "stationHiragana": "ときわだい",
+      "latitude": "35.75865",
+      "longitude": "139.68964",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "上板橋",
+      "stationHiragana": "かみいたばし",
+      "latitude": "35.76393",
+      "longitude": "139.67549",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "東武練馬",
+      "stationHiragana": "とうぶねりま",
+      "latitude": "35.76855",
+      "longitude": "139.66343",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "下赤塚",
+      "stationHiragana": "しもあかつか",
+      "latitude": "35.7703",
+      "longitude": "139.64537",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "成増",
+      "stationHiragana": "なります",
+      "latitude": "35.77754",
+      "longitude": "139.633",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "和光市",
+      "stationHiragana": "わこうし",
+      "latitude": "35.78877",
+      "longitude": "139.61182",
+      "transfers": [
+        {
+          "companyName": "東京地下鉄",
+          "routeName": "有楽町線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "朝霞",
+      "stationHiragana": "あさがすみ",
+      "latitude": "35.79757",
+      "longitude": "139.60006",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "朝霞台",
+      "stationHiragana": "あさかだい",
+      "latitude": "35.81479",
+      "longitude": "139.58664",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "武蔵野線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "志木",
+      "stationHiragana": "しき",
+      "latitude": "35.82263",
+      "longitude": "139.57459",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "柳瀬川",
+      "stationHiragana": "やなせがわ",
+      "latitude": "35.83102",
+      "longitude": "139.56176",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "みずほ台",
+      "stationHiragana": "みずほだい",
+      "latitude": "35.83886",
+      "longitude": "139.54977",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "鶴瀬",
+      "stationHiragana": "つるせ",
+      "latitude": "35.84591",
+      "longitude": "139.53901",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "ふじみ野",
+      "stationHiragana": "ふじみの",
+      "latitude": "35.85991",
+      "longitude": "139.52382",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "上福岡",
+      "stationHiragana": "かみふくおか",
+      "latitude": "35.87453",
+      "longitude": "139.51129",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "新河岸",
+      "stationHiragana": "しんがし",
+      "latitude": "35.89056",
+      "longitude": "139.49768",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "川越",
+      "stationHiragana": "かわごえ",
+      "latitude": "35.90726",
+      "longitude": "139.48305",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "川越線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "川越市",
+      "stationHiragana": "かわごえし",
+      "latitude": "35.91488",
+      "longitude": "139.47642",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "霞ヶ関",
+      "stationHiragana": "かすみがせき",
+      "latitude": "35.92543",
+      "longitude": "139.44392",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "鶴ヶ島",
+      "stationHiragana": "つるがしま",
+      "latitude": "35.93693",
+      "longitude": "139.42369",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "若葉",
+      "stationHiragana": "わかば",
+      "latitude": "35.94936",
+      "longitude": "139.40814",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "坂戸",
+      "stationHiragana": "さかど",
+      "latitude": "35.95722",
+      "longitude": "139.3934",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武越生線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "北坂戸",
+      "stationHiragana": "きたさかど",
+      "latitude": "35.97132",
+      "longitude": "139.3963",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "高坂",
+      "stationHiragana": "たかさか",
+      "latitude": "36.00294",
+      "longitude": "139.39769",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "東松山",
+      "stationHiragana": "ひがしまつやま",
+      "latitude": "36.03466",
+      "longitude": "139.40157",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "森林公園",
+      "stationHiragana": "しんりんこうえん",
+      "latitude": "36.04496",
+      "longitude": "139.37636",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "つきのわ",
+      "stationHiragana": null,
+      "latitude": "36.04338",
+      "longitude": "139.34516",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "武蔵嵐山",
+      "stationHiragana": "むさしらんざん",
+      "latitude": "36.04403",
+      "longitude": "139.32853",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "小川町",
+      "stationHiragana": "おがわまち",
+      "latitude": "36.05854",
+      "longitude": "139.26121",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "八高線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "東武竹沢",
+      "stationHiragana": "とうぶたけざわ",
+      "latitude": "36.07502",
+      "longitude": "139.2376",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "みなみ寄居",
+      "stationHiragana": "よりい",
+      "latitude": "36.090976",
+      "longitude": "139.236437",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "男衾",
+      "stationHiragana": "おぶすま",
+      "latitude": "36.10845",
+      "longitude": "139.23379",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "鉢形",
+      "stationHiragana": "はちがた",
+      "latitude": "36.11381",
+      "longitude": "139.20929",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "玉淀",
+      "stationHiragana": "たまよど",
+      "latitude": "36.11699",
+      "longitude": "139.20015",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武東上本線",
+      "stationName": "寄居",
+      "stationHiragana": "よりい",
+      "latitude": "36.11742",
+      "longitude": "139.19426",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "八高線"
+        },
+        {
+          "companyName": "秩父鉄道",
+          "routeName": "秩父本線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武桐生線",
+      "stationName": "太田",
+      "stationHiragana": "おおた",
+      "latitude": "36.2942",
+      "longitude": "139.37883",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武伊勢崎線"
+        },
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武小泉線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武桐生線",
+      "stationName": "三枚橋",
+      "stationHiragana": "さんまいばし",
+      "latitude": "36.31388",
+      "longitude": "139.35474",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武桐生線",
+      "stationName": "治良門橋",
+      "stationHiragana": "じろえんばし",
+      "latitude": "36.33249",
+      "longitude": "139.34215",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武桐生線",
+      "stationName": "藪塚",
+      "stationHiragana": "やぶづか",
+      "latitude": "36.35883",
+      "longitude": "139.31569",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武桐生線",
+      "stationName": "阿左美",
+      "stationHiragana": "あざみ",
+      "latitude": "36.38511",
+      "longitude": "139.30653",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武桐生線",
+      "stationName": "新桐生",
+      "stationHiragana": "しんきりゅう",
+      "latitude": "36.39507",
+      "longitude": "139.3201",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武桐生線",
+      "stationName": "相老",
+      "stationHiragana": "あいおい",
+      "latitude": "36.41021",
+      "longitude": "139.30406",
+      "transfers": [
+        {
+          "companyName": "わたらせ渓谷鐵道",
+          "routeName": "わたらせ渓谷線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武桐生線",
+      "stationName": "赤城",
+      "stationHiragana": "あかぎ",
+      "latitude": "36.4255",
+      "longitude": "139.27642",
+      "transfers": [
+        {
+          "companyName": "上毛電気鉄道",
+          "routeName": "上毛線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武越生線",
+      "stationName": "坂戸",
+      "stationHiragana": "さかど",
+      "latitude": "35.95702",
+      "longitude": "139.39349",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武東上本線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武越生線",
+      "stationName": "一本松",
+      "stationHiragana": "いっぽんまつ",
+      "latitude": "35.94048",
+      "longitude": "139.37046",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武越生線",
+      "stationName": "西大家",
+      "stationHiragana": "にしおおや",
+      "latitude": "35.93161",
+      "longitude": "139.3559",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武越生線",
+      "stationName": "川角",
+      "stationHiragana": "かわかど",
+      "latitude": "35.9377",
+      "longitude": "139.34595",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武越生線",
+      "stationName": "武州長瀬",
+      "stationHiragana": "ぶしゅうながせ",
+      "latitude": "35.94212",
+      "longitude": "139.32567",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武越生線",
+      "stationName": "東毛呂",
+      "stationHiragana": "ひがしもろ",
+      "latitude": "35.94682",
+      "longitude": "139.31575",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武越生線",
+      "stationName": "武州唐沢",
+      "stationHiragana": "ぶしゅうからさわ",
+      "latitude": "35.95229",
+      "longitude": "139.3092",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武越生線",
+      "stationName": "越生",
+      "stationHiragana": "おごせ",
+      "latitude": "35.9628",
+      "longitude": "139.29961",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "八高線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "大宮",
+      "stationHiragana": "おおみや",
+      "latitude": "35.9074",
+      "longitude": "139.62447",
+      "transfers": [
+        {
+          "companyName": "埼玉新都市交通",
+          "routeName": "伊奈線"
+        },
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "上越新幹線"
+        },
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "川越線"
+        },
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "東北新幹線"
+        },
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "東北本線"
+        },
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "埼京線"
+        },
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "高崎線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "北大宮",
+      "stationHiragana": "きたおおみや",
+      "latitude": "35.91849",
+      "longitude": "139.62511",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "大宮公園",
+      "stationHiragana": "おおみやこうえん",
+      "latitude": "35.92404",
+      "longitude": "139.63376",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "大和田",
+      "stationHiragana": "おおわだ",
+      "latitude": "35.92947",
+      "longitude": "139.65165",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "七里",
+      "stationHiragana": "ななさと",
+      "latitude": "35.93688",
+      "longitude": "139.66657",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "岩槻",
+      "stationHiragana": "いわつき",
+      "latitude": "35.94984",
+      "longitude": "139.6926",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "東岩槻",
+      "stationHiragana": "ひがしいわつき",
+      "latitude": "35.96307",
+      "longitude": "139.71163",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "豊春",
+      "stationHiragana": "とよはる",
+      "latitude": "35.9678",
+      "longitude": "139.72566",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "八木崎",
+      "stationHiragana": "やぎさき",
+      "latitude": "35.97887",
+      "longitude": "139.74273",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "春日部",
+      "stationHiragana": "かすかべ",
+      "latitude": "35.97977",
+      "longitude": "139.75292",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武伊勢崎線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "藤の牛島",
+      "stationHiragana": "ふじのうしじま",
+      "latitude": "35.98037",
+      "longitude": "139.77856",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "南桜井",
+      "stationHiragana": "みなみさくらい",
+      "latitude": "35.98068",
+      "longitude": "139.80921",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "川間",
+      "stationHiragana": "かわま",
+      "latitude": "35.97921",
+      "longitude": "139.83548",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "七光台",
+      "stationHiragana": "ななこうだい",
+      "latitude": "35.97034",
+      "longitude": "139.85326",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "清水公園",
+      "stationHiragana": "しみずこうえん",
+      "latitude": "35.95936",
+      "longitude": "139.85996",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "愛宕",
+      "stationHiragana": "あたご",
+      "latitude": "35.95104",
+      "longitude": "139.86427",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "野田市",
+      "stationHiragana": "のだし",
+      "latitude": "35.94387",
+      "longitude": "139.8706",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "梅郷",
+      "stationHiragana": "うめさと",
+      "latitude": "35.93113",
+      "longitude": "139.89154",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "運河",
+      "stationHiragana": "うんが",
+      "latitude": "35.91379",
+      "longitude": "139.90615",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "江戸川台",
+      "stationHiragana": "えどがわだい",
+      "latitude": "35.89766",
+      "longitude": "139.91029",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "初石",
+      "stationHiragana": "はついし",
+      "latitude": "35.88329",
+      "longitude": "139.91824",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "流山おおたかの森",
+      "stationHiragana": "ながれやまもり",
+      "latitude": "35.87196",
+      "longitude": "139.92607",
+      "transfers": [
+        {
+          "companyName": "首都圏新都市鉄道",
+          "routeName": "つくばエクスプレス"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "豊四季",
+      "stationHiragana": "とよしき",
+      "latitude": "35.86629",
+      "longitude": "139.93988",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "柏",
+      "stationHiragana": "かしわ",
+      "latitude": "35.8625",
+      "longitude": "139.97087",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "常磐線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "新柏",
+      "stationHiragana": "しんかしわ",
+      "latitude": "35.83862",
+      "longitude": "139.96645",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "増尾",
+      "stationHiragana": "ますお",
+      "latitude": "35.83008",
+      "longitude": "139.97605",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "逆井",
+      "stationHiragana": "さかさい",
+      "latitude": "35.82317",
+      "longitude": "139.98382",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "高柳",
+      "stationHiragana": "たかやなぎ",
+      "latitude": "35.80864",
+      "longitude": "139.99898",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "六実",
+      "stationHiragana": "むつみ",
+      "latitude": "35.79421",
+      "longitude": "139.99924",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "新鎌ヶ谷",
+      "stationHiragana": "しんかまがや",
+      "latitude": "35.78075",
+      "longitude": "139.99948",
+      "transfers": [
+        {
+          "companyName": "京成電鉄",
+          "routeName": "京成成田空港線"
+        },
+        {
+          "companyName": "北総鉄道",
+          "routeName": "北総線"
+        },
+        {
+          "companyName": "新京成電鉄",
+          "routeName": "新京成線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "鎌ヶ谷",
+      "stationHiragana": "かまがや",
+      "latitude": "35.76412",
+      "longitude": "139.99738",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "馬込沢",
+      "stationHiragana": "まごめざわ",
+      "latitude": "35.74199",
+      "longitude": "139.99223",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "塚田",
+      "stationHiragana": "つかだ",
+      "latitude": "35.72257",
+      "longitude": "139.9833",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "新船橋",
+      "stationHiragana": "しんふなばし",
+      "latitude": "35.71098",
+      "longitude": "139.97973",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武野田線",
+      "stationName": "船橋",
+      "stationHiragana": "ふなばし",
+      "latitude": "35.70206",
+      "longitude": "139.98472",
+      "transfers": [
+        {
+          "companyName": "東日本旅客鉄道",
+          "routeName": "総武本線"
+        },
+        {
+          "companyName": "京成電鉄",
+          "routeName": "京成本線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武鬼怒川線",
+      "stationName": "下今市",
+      "stationHiragana": "しもいまいち",
+      "latitude": "36.7259",
+      "longitude": "139.69181",
+      "transfers": [
+        {
+          "companyName": "東武鉄道",
+          "routeName": "東武日光線"
+        }
+      ]
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武鬼怒川線",
+      "stationName": "大谷向",
+      "stationHiragana": "だいやむこう",
+      "latitude": "36.73199",
+      "longitude": "139.6915",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武鬼怒川線",
+      "stationName": "大桑",
+      "stationHiragana": "おおくわ",
+      "latitude": "36.76078",
+      "longitude": "139.71354",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武鬼怒川線",
+      "stationName": "新高徳",
+      "stationHiragana": "しんたかとく",
+      "latitude": "36.77944",
+      "longitude": "139.71101",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武鬼怒川線",
+      "stationName": "小佐越",
+      "stationHiragana": "こさごえ",
+      "latitude": "36.80169",
+      "longitude": "139.70637",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武鬼怒川線",
+      "stationName": "東武ワールドスクウェア",
+      "stationHiragana": "とうぶわーるどすくうぇあ",
+      "latitude": "36.80833",
+      "longitude": "139.70903",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武鬼怒川線",
+      "stationName": "鬼怒川温泉",
+      "stationHiragana": "きぬがわおんせん",
+      "latitude": "36.82309",
+      "longitude": "139.71706",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武鬼怒川線",
+      "stationName": "鬼怒川公園",
+      "stationHiragana": "きぬがわこうえん",
+      "latitude": "36.84193",
+      "longitude": "139.72284",
+      "transfers": []
+    },
+    {
+      "companyName": "東武鉄道",
+      "routeName": "東武鬼怒川線",
+      "stationName": "新藤原",
+      "stationHiragana": "しんふじわら",
+      "latitude": "36.85288",
+      "longitude": "139.73286",
+      "transfers": [
+        {
+          "companyName": "野岩鉄道",
+          "routeName": "会津鬼怒川線"
+        }
+      ]
+    }
+  ]
+}

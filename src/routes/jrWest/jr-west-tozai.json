@@ -1,0 +1,180 @@
+{
+  "routeNames": "JR東西線",
+  "stations": [
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "JR東西線",
+      "stationName": "京橋",
+      "stationHiragana": "きょうばし",
+      "latitude": "34.696019",
+      "longitude": "135.534105",
+      "transfers": [
+        {
+          "companyName": "京阪電気鉄道",
+          "routeName": "京阪本線"
+        },
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "長堀鶴見緑地線"
+        },
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "大阪環状線"
+        },
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "片町線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "JR東西線",
+      "stationName": "大阪城北詰",
+      "stationHiragana": "おおさかじょうきたづめ",
+      "latitude": "34.69464",
+      "longitude": "135.52518",
+      "transfers": []
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "JR東西線",
+      "stationName": "大阪天満宮",
+      "stationHiragana": "おおさかてんまんぐう",
+      "latitude": "34.69734",
+      "longitude": "135.51437",
+      "transfers": [
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "谷町線"
+        },
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "堺筋線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "JR東西線",
+      "stationName": "北新地",
+      "stationHiragana": "きたしんち",
+      "latitude": "34.69837",
+      "longitude": "135.49719",
+      "transfers": [
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "大阪環状線"
+        },
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "東海道線"
+        },
+        {
+          "companyName": "阪急電鉄",
+          "routeName": "阪急宝塚本線"
+        },
+        {
+          "companyName": "阪急電鉄",
+          "routeName": "阪急神戸本線"
+        },
+        {
+          "companyName": "阪急電鉄",
+          "routeName": "阪急京都本線"
+        },
+        {
+          "companyName": "阪神電気鉄道",
+          "routeName": "阪神本線"
+        },
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "御堂筋線"
+        },
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "四つ橋線"
+        },
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "谷町線"
+        },
+        {
+          "companyName": "京阪電気鉄道",
+          "routeName": "京阪中之島線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "JR東西線",
+      "stationName": "新福島",
+      "stationHiragana": "しんふくしま",
+      "latitude": "34.69454",
+      "longitude": "135.48464",
+      "transfers": [
+        {
+          "companyName": "阪神電気鉄道",
+          "routeName": "阪神本線"
+        },
+        {
+          "companyName": "京阪電気鉄道",
+          "routeName": "京阪中之島線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "JR東西線",
+      "stationName": "海老江",
+      "stationHiragana": "えびえ",
+      "latitude": "34.69613",
+      "longitude": "135.4724",
+      "transfers": [
+        {
+          "companyName": "阪神電気鉄道",
+          "routeName": "阪神本線"
+        },
+        {
+          "companyName": "大阪市高速電気軌道",
+          "routeName": "千日前線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "JR東西線",
+      "stationName": "御幣島",
+      "stationHiragana": "みてじま",
+      "latitude": "34.71169",
+      "longitude": "135.45562",
+      "transfers": []
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "JR東西線",
+      "stationName": "加島",
+      "stationHiragana": "かしま",
+      "latitude": "34.72786",
+      "longitude": "135.45338",
+      "transfers": []
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "JR東西線",
+      "stationName": "尼崎",
+      "stationHiragana": "あまがさき",
+      "latitude": "34.73167",
+      "longitude": "135.4329",
+      "transfers": [
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "東海道線"
+        },
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "福知山線"
+        }
+      ]
+    }
+  ]
+}

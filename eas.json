@@ -1,0 +1,41 @@
+{
+  "cli": {
+    "version": ">= 0.45.1",
+    "requireCommit": false
+  },
+  "build": {
+    "base": {
+      "node": "14.18.3",
+      "yarn": "1.22.10"
+    },
+    "development": {
+      "extends": "base",
+      "developmentClient": true,
+      "distribution": "internal",
+      "releaseChannel": "default",
+      "env": {
+        "APP_ENV": "dev"
+      }
+    },
+    "preview": {
+      "extends": "base",
+      "distribution": "store",
+      "releaseChannel": "stg-v1.0",
+      "env": {
+        "APP_ENV": "staging"
+      }
+    },
+    "production": {
+      "extends": "base",
+      "distribution": "store",
+      "releaseChannel": "prod-v1.0",
+      "env": {
+        "APP_ENV": "production"
+      }
+    }
+  },
+  "submit": {
+    "preview": {},
+    "production": {}
+  }
+}

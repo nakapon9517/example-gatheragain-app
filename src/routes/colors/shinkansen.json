@@ -1,0 +1,11 @@
+{
+  "東海道新幹線": { "color": "#0000FF", "shortText": "F" },
+  "山陽新幹線": { "color": "#0000FF", "shortText": "F" },
+  "東北新幹線": { "color": "#008000", "shortText": "F" },
+  "山形新幹線": { "color": "#FF8000", "shortText": "F" },
+  "秋田新幹線": { "color": "#FF0080", "shortText": "F" },
+  "北海道新幹線": { "color": "#9acd32", "shortText": "F" },
+  "北陸新幹線": { "color": "#6a3d98", "shortText": "F" },
+  "上越新幹線": { "color": "#f58d79", "shortText": "F" },
+  "九州新幹線": { "color": "", "shortText": "F" }
+}

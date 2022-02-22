@@ -1,0 +1,10 @@
+{
+  "東横線": { "shortText": "TY", "color": "#DA0042" },
+  "東急目黒線": { "shortText": "MG", "color": "#009CD3" },
+  "田園都市線": { "shortText": "DT", "color": "#00AA8D" },
+  "大井町線": { "shortText": "OM", "color": "#F18C43" },
+  "池上線": { "shortText": "IK", "color": "#EE86A8" },
+  "東急多摩川線": { "shortText": "TM", "color": "#AE0079" },
+  "世田谷線": { "shortText": "SG", "color": "#FCC800" },
+  "こどもの国線": { "shortText": "KD", "color": "#0068B7" }
+}

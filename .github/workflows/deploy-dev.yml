@@ -1,0 +1,37 @@
+name: deploy dev
+
+on:
+  push:
+    branches: [develop]
+
+jobs:
+  publish:
+    name: Install and publish
+    runs-on: ubuntu-latest
+    env:
+      APP_ENV: develop
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - uses: expo/expo-github-action@v6
+        with:
+          expo-version: 4.x
+          token: ${{ secrets.EXPO_TOKEN_GATHRAGAIN }}
+      - run: yarn install
+
+      - run: |
+          expo publish
+          echo "DEPLOY_STATE=successful" >> $GITHUB_ENV
+
+      - name: Failed Deployment
+        if: failure()
+        run: echo "DEPLOY_STATE=failed" >> $GITHUB_ENV
+
+      - name: Confirm Deploy State
+        if: always()
+        run: |
+          echo "DEPLOY_STATE: ${{ env.DEPLOY_STATE }}"

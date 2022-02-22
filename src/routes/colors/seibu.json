@@ -1,0 +1,14 @@
+{
+  "西武新宿線": { "color": "#0099cc", "shortText": "SS" },
+  "西武拝島線": { "color": "#0099cc", "shortText": "SS" },
+  "西武池袋線": { "color": "#ff6600", "shortText": "SI" },
+  "西武秩父線": { "color": "#ff6600", "shortText": "SI" },
+  "西武豊島線": { "color": "#ff6600", "shortText": "SI" },
+  "西武狭山線": { "color": "#ff6600", "shortText": "SI" },
+  "西武有楽町線": { "color": "#ff6600", "shortText": "SI" },
+  "西武多摩湖線": { "color": "#ffcc33", "shortText": "ST" },
+  "西武国分寺線": { "color": "#33cc66", "shortText": "SK" },
+  "西武西武園線": { "color": "#33cc66", "shortText": "SK" },
+  "西武山口線": { "color": "#ff3333", "shortText": "SY" },
+  "西武多摩川線": { "color": "#ff6600", "shortText": "SW" }
+}

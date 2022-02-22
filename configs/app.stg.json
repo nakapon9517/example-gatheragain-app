@@ -1,0 +1,97 @@
+{
+  "name": "Gatheragain",
+  "displayName": "この指とまれ！",
+  "expo": {
+    "name": "この指とまれ！-stg",
+    "slug": "example",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "scheme": "example-stg",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#7B84A5"
+    },
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "jsEngine": "hermes",
+    "notification": {
+      "icon": "./src/assets/icon.png",
+      "color": "#7B84A5",
+      "iosDisplayInForeground": true,
+      "androidMode": "collapse",
+      "androidCollapsedTitle": "新着通知が届いています"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.gatheragain",
+      "buildNumber": "25",
+      "supportsTablet": true,
+      "appStoreUrl": "",
+      "config": {
+        "googleMobileAdsAppId": "",
+        "googleMapsApiKey": ""
+      },
+      "infoPlist": {
+        "CFBundleDevelopmentRegion": "ja_JP",
+        "NSLocationWhenInUseUsageDescription": "マップに反映するため位置情報を利用することがあります",
+        "NSUserTrackingUsageDescription": "個人の特定につながることはありません。興味関心に合わせた広告配信のために使用します。",
+        "UIBackgroundModes": ["remote-notification"]
+      }
+    },
+    "android": {
+      "package": "com.example.gatheragain",
+      "versionCode": 25,
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptive-icon.png",
+        "backgroundColor": "#7B84A5"
+      },
+      "playStoreUrl": "",
+      "config": {
+        "googleMobileAdsAppId": "",
+        "googleMaps": {
+          "apiKey": ""
+        }
+      },
+      "permissions": ["INTERNET", "VIBRATE", "ACCESS_NOTIFICATION_POLICY"]
+    },
+    "web": {
+      "favicon": "./src/assets/favicon.png",
+      "config": {
+        "firebase": {
+          "apiKey": "",
+          "authDomain": "",
+          "projectId": "",
+          "storageBucket": "",
+          "messagingSenderId": "",
+          "appId": "",
+          "measurementId": ""
+        }
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": ""
+      }
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./src/assets/icon.png",
+          "color": "#7B84A5"
+        }
+      ],
+      [
+        "expo-ads-admob",
+        {
+          "userTrackingPermission": "個人の特定につながることはありません。興味関心に合わせた広告配信のために使用します。"
+        }
+      ]
+    ]
+  }
+}

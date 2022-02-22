@@ -1,0 +1,15 @@
+{
+  "東武スカイツリーライン": { "color": "#0f6cc3", "shortText": "TS" },
+  "東武亀戸線": { "color": "#0f6cc3", "shortText": "TS" },
+  "東武大師線": { "color": "#0f6cc3", "shortText": "TS" },
+  "東武伊勢崎線": { "color": "#ff0000", "shortText": "TI" },
+  "東武桐生線": { "color": "#ff0000", "shortText": "TI" },
+  "東武佐野線": { "color": "#ff0000", "shortText": "TI" },
+  "東武小泉線": { "color": "#ff0000", "shortText": "TI" },
+  "東武日光線": { "color": "#ffa600", "shortText": "TN" },
+  "東武宇都宮線": { "color": "#ffa600", "shortText": "TN" },
+  "東武鬼怒川線": { "color": "#ffa600", "shortText": "TN" },
+  "東武野田線": { "color": "#33cccc", "shortText": "TD" },
+  "東武東上本線": { "color": "#000099", "shortText": "TJ" },
+  "東武越生線": { "color": "#000099", "shortText": "TJ" }
+}

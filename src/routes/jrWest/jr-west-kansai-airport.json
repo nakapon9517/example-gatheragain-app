@@ -1,0 +1,47 @@
+{
+  "routeNames": "関西空港線",
+  "stations": [
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "関西空港線",
+      "stationName": "日根野",
+      "stationHiragana": "ひねの",
+      "latitude": "34.38997",
+      "longitude": "135.33087",
+      "transfers": [
+        {
+          "companyName": "西日本旅客鉄道",
+          "routeName": "阪和線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "関西空港線",
+      "stationName": "りんくうタウン",
+      "stationHiragana": null,
+      "latitude": "34.41143",
+      "longitude": "135.29887",
+      "transfers": [
+        {
+          "companyName": "南海電気鉄道",
+          "routeName": "南海空港線"
+        }
+      ]
+    },
+    {
+      "companyName": "西日本旅客鉄道",
+      "routeName": "関西空港線",
+      "stationName": "関西空港",
+      "stationHiragana": "かんさいくうこう",
+      "latitude": "34.43597",
+      "longitude": "135.24349",
+      "transfers": [
+        {
+          "companyName": "南海電気鉄道",
+          "routeName": "南海空港線"
+        }
+      ]
+    }
+  ]
+}

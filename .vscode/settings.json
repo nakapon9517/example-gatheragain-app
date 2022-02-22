@@ -1,0 +1,130 @@
+{
+  "cSpell.ignoreRegExpList": [
+    "[０-９Ａ-Ｚａ-ｚぁ-んァ-ヶ亜-熙纊-黑]+",
+    "karuta",
+    "Firestore",
+    "boice",
+    "Seiya",
+    "nabigator"
+  ],
+  // カーソルのアニメーション スタイルを制御します。指定できる値は 'blink'、'smooth'、'phase'、'expand'、'solid' です
+  "editor.cursorBlinking": "expand",
+  // パラメーター ヒントを有効にする
+  // Enterの補完を禁止→許容
+  "editor.acceptSuggestionOnEnter": "on",
+  // "editor.fontFamily": "Ink Free, 'Courier New', monospace",
+  "html.format.wrapLineLength": 150,
+  // "html.format.wrapAttributes": "all",
+  "html.format.enable": true,
+  "html.format.endWithNewline": true,
+  "javascript.format.enable": true,
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": true,
+  /* エディターの設定 */
+  "editor.tabSize": 2,
+  // インデントの自動判別機能
+  "editor.detectIndentation": false,
+  "editor.renderControlCharacters": true,
+  "editor.renderWhitespace": "all",
+  "editor.suggestSelection": "first",
+  // 拡張機能を自動的に更新します
+  "extensions.autoUpdate": true,
+  // 新規の拡張機能の設定
+  "todohighlight.isEnable": true,
+  // おすすめのカラーリスト「#0B615E,#8A0808,#5E610B,#0B610B,#0B0B61,#4C0B5F,#610B21,#000000,#58FAF4,,,,,,」
+  "todohighlight.keywords": [
+    {
+      // あとで追加、修正するべき機能がある。
+      "text": "TODO",
+      "backgroundColor": "#58FAF4"
+    },
+    {
+      // 既知の不具合があるコード。修正が必要。
+      "text": "FIXME",
+      "backgroundColor": "#D7DF01"
+    },
+    {
+      // あまりきれいじゃないコード。リファクタリングが必要。
+      "text": "HACK",
+      "backgroundColor": "#0B610B"
+    },
+    {
+      // 危険！動くけどなぜうごくかわからない。
+      "text": "XXX",
+      "backgroundColor": "#D7DF01"
+    },
+    {
+      // 意図した通りに動くか、見直す必要がある。
+      "text": "REVIEW",
+      "backgroundColor": "#0B610B"
+    },
+    {
+      // 無駄が多く、ボトルネックになっている。
+      "text": "OPTIMIZE",
+      "backgroundColor": "#0B610B"
+    },
+    {
+      // コードをどのように変更したか。
+      "text": "CHANGED",
+      "backgroundColor": "#000000"
+    },
+    {
+      // なぜ、こうなったという情報を残す。
+      "text": "NOTE",
+      "backgroundColor": "#000000"
+    },
+    {
+      // 注意が必要。
+      "text": "WARNING",
+      "backgroundColor": "#D7DF01"
+    },
+    {
+      "text": "console.log",
+      "backgroundColor": "#000000",
+      "color": "#D7DF01"
+    },
+    {
+      "text": "console.debug",
+      "backgroundColor": "#777",
+      "color": "#fff"
+    },
+    {
+      "text": "★",
+      "backgroundColor": "",
+      "color": "#D7DF01"
+    },
+    {
+      "text": "－",
+      "backgroundColor": "",
+      "color": "#D7DF01"
+    },
+    {
+      "text": "⇒",
+      "backgroundColor": "",
+      "color": "#D7DF01"
+    },
+    {
+      "text": "：",
+      "backgroundColor": "",
+      "color": "#58FAF4"
+    },
+    {
+      "text": ":",
+      "backgroundColor": "",
+      "color": "#f39"
+    },
+    {
+      "text": "・",
+      "backgroundColor": "",
+      "color": "#58FAF4"
+    },
+    {
+      "text": "%",
+      "backgroundColor": "",
+      "color": "#8a2be2"
+    }
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.ignorePath": ".prettierignorettierrc"
+}
