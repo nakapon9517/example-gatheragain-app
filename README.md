@@ -17,16 +17,16 @@
 - SplashScreen with fadeout animation
 - WebView
 
-## Clone
+## SetUp
 
 ```
 git clone https://github.com/nakapon9517/example-gatheragain-app.git
-```
-
-## Install & Run
-
-```
 cd example-gatheragain-app && yarn
+```
+
+## Run
+
+```
 yarn dev
 ```
 

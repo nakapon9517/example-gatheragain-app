@@ -14,7 +14,8 @@ export const useUserGather = () => {
   const [gathers, setGathers] = useState<Gather[]>(
     Array(getRandomNumber(20, 10))
       .fill(null)
-      .map((_, i) => generateGather(i)),
+      .map((_, i) => generateGather(i))
+      .sort((a, b) => b.updatedTime.seconds - a.updatedTime.seconds),
   );
 
   useEffect(() => {
