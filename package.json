@@ -1,6 +1,10 @@
 {
   "name": "example",
   "version": "1.0.0",
+  "description": "Example code from Application",
+  "author": "nakapon <example@example.com> (http://github.com/nakapon9517)",
+  "license": "MIT",
+  "keywords": ["この指とまれ", "example", "reactnative", "Animated"],
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "dev": "APP_ENV=dev expo start",
